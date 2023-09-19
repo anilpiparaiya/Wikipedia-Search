@@ -8,5 +8,5 @@ int main(){
     a = 5;
     b = 6;
 
-    cout<<a+b;
+    cout<<"The sum is"<<a+b;
 }
